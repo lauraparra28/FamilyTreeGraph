@@ -14,11 +14,10 @@ A knowledge graph and a tree are both data structures employed for organizing in
 # Repository Structure
 Explanation of the files and folders present in the repository.
 
-- Arvore_Parra_Grafo.ipynb:´ File that contains the graph data in ipynb format , version 1.
-- Arvore_Parra_Castro_Grafo.ipynb: File that contains the graph data in ipynb format, version 2.
+- Arvore_Parra_Castro_Grafo.ipynb: File that contains the graph data in ipynb format, version 1.
 - Family_Graph.ipynb: File that contains the graph data in ipynb format, final version. 
-- ´grafo_familiar.json´ : File that contains the graph data in JSON format [In process]
-- visualization_grafo.py: Python script to generate graph visualizations.
+- ´grafo_familiar.json´ : File that contains the graph data in JSON format [In progress]
+- visualization_grafo.py: Python script to generate graph visualizations. [In progress]
 - ´README.md´: This file, providing detailed information about the project.
 
 # Family Tree Data
